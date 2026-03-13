@@ -15,9 +15,6 @@ def __str__(self):
     """
     return f"P<{self.x},{self.y}>"
 
-
-
-
 p1 = Point(1, 2)
 p2 = Point(3, 4)
 
